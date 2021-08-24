@@ -1,2 +1,2 @@
 # c-admin
-A admin project 
+A admin project on jdk8 SpringBoot
